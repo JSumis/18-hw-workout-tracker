@@ -5,7 +5,6 @@
   - [Deployment](#deployment)
   - [Questions](#questions)
 
-  <br />
   ## Description
 
   An app that allows user to view, create, and track daily workouts.
@@ -14,8 +13,6 @@
  ## Deployment
 
 https://whispering-anchorage-25275.herokuapp.com/
-
- <br />
 
   ## Questions
 
