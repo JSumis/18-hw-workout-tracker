@@ -2,32 +2,21 @@
 
   ## Table of Contents:
   - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Walkthrough](#usage)
+  - [Deployment](#deployment)
   - [Questions](#questions)
 
   <br />
   ## Description
 
-  Backend for ecommerce website that allows you to retrieve, update, create, and delete from MySQL database.  Utilizes express and sequelize.
+  An app that allows user to view, create, and track daily workouts.
+  Utilizes React and MongoDB
 
-  <br />
-  ## Installation
+ ## Deployment
 
-  npm i
-
-  <br />
-  ## Usage
-
-  npm run seed
-  npm start
+https://whispering-anchorage-25275.herokuapp.com/
 
  <br />
-  ## Walkthrough
-VIDEO LINK HERE
 
- <br />
   ## Questions
 
   You can find me on Github at https://github.com/JSumis/
